@@ -136,7 +136,7 @@ namespace Whetstone
     {
         public static int InferRepairCostBase(RepairableItem item)
         {
-            return (int)Math.Ceiling(item.FullRepairAmount * 0.2);
+            return (int)Math.Ceiling(item.FullRepairAmount * 0.6);
         }
         public WoodWhetstoneRecipe()
         {
