@@ -1,5 +1,9 @@
 # Whetstone
 
+*This is a modified version of the [original Whetstone mod](https://github.com/tony84727/Whetstone) (fork).*
+*This version is used on the ECO Friendly game server. The whetstone is made more expensive to create.*
+*Big thank you to [Tony Duan](https://github.com/tony84727)*
+
 A mod for [Eco](https://play.eco/)
 
 Allow players to quickly fix their tools in the wild.
